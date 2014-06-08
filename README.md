@@ -3,4 +3,4 @@ hello-world
 
 this is a test repo for training
 
-I'd like to learn GiyHub deeper, so train myself
+I'd like to learn GitHub deeper, so train myself
